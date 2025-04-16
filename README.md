@@ -1,33 +1,57 @@
-# UX & UI Design • Design de Experiência e Interface
+# UX/UI Design
 
-## ENGLISH
-This repository focuses on **User Experience (UX)** and **User Interface (UI)** design, based on the FIAP curriculum and global standards. It explores user-centered design methods, prototyping tools and practical applications.
-
-### Topics to be covered
-- Design Thinking process (Empathize, Define, Ideate, Prototype, Test)
-- User-centered research and personas
-- Empathy maps, CSD matrix, and problem definition
-- Wireframing and interface architecture
-- Accessibility and emotional design
-- Real-world application: Vinheria Agnello e-commerce interface
-
-### Structure
-Projects and exercises will be added progressively.
+[![Email](https://img.shields.io/badge/alyssonbrunooliveirasantos@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:alyssonbrunooliveirasantos@gmail.com)
 
 ---
 
-## PORTUGUÊS
-Este repositório aborda **UX (Experiência do Usuário)** e **UI (Interface do Usuário)**, com base no conteúdo da FIAP e em padrões internacionais. Inclui métodos centrados no usuário, ferramentas de prototipação e aplicação prática.
+🇺🇸 **English**
 
-### Tópicos abordados
-- Processo de Design Thinking (Empatizar, Definir, Idear, Prototipar, Testar)
-- Pesquisa com usuários e construção de personas
-- Mapas de empatia, matriz CSD e definição de problemas
-- Wireframes e arquitetura de interfaces
-- Acessibilidade e design emocional
-- Aplicação prática: interface de e-commerce da Vinheria Agnello
+Repository focused on the fundamentals of User Experience (UX) and User Interface (UI) design. This repository includes topics like design principles, wireframes, style guides, usability, and user research. Aimed at helping both designers and developers build intuitive, accessible, and visually appealing interfaces.
 
-### Estrutura
-Projetos e exercícios serão adicionados progressivamente.
+**Contact:** [alyssonbrunooliveirasantos@gmail.com](mailto:alyssonbrunooliveirasantos@gmail.com)
+
+---
+
+🇧🇷 **Português**
+
+Repositório focado nos fundamentos de Design de Experiência do Usuário (UX) e Interface do Usuário (UI). Este repositório abrange tópicos como princípios de design, wireframes, guias de estilo, usabilidade e pesquisa com usuários. O objetivo é ajudar designers e desenvolvedores a criarem interfaces intuitivas, acessíveis e visualmente atraentes.
+
+**Contato:** [alyssonbrunooliveirasantos@gmail.com](mailto:alyssonbrunooliveirasantos@gmail.com)
+
+---
+
+## 📝 Topics Covered / Tópicos Abordados
+
+- Design principles (princípios de design)
+- Wireframes and prototypes (wireframes e protótipos)
+- Accessibility and usability (acessibilidade e usabilidade)
+- Style guides and reusable components (guias de estilo e componentes reutilizáveis)
+- User research and journeys (pesquisa com usuários e jornadas)
+- UI tools and Figma (ferramentas de UI e Figma)
+
+---
+
+## 🚀 How to use / Como usar
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/alysson-tech/ux-iu-design.git
+    ```
+2. Explore os diretórios e abra os arquivos/documentação para cada tópico detalhado.
+
+---
+
+## 📁 Suggested Structure / Estrutura Sugerida
+
+```plaintext
+ux-ui-design/
+├── 01-design-principles/
+├── 02-wireframes-and-prototypes/
+├── 03-accessibility-and-usability/
+├── 04-style-guides-and-components/
+├── 05-user-research-and-journeys/
+└── 06-ui-tools-figma/
+📩 Contact / Contato
+Email: alyssonbrunooliveirasantos@gmail.com
 
 ---
