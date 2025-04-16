@@ -1,7 +1,5 @@
 # UX/UI Design
 
-[![Email](https://img.shields.io/badge/alyssonbrunooliveirasantos@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:alyssonbrunooliveirasantos@gmail.com)
-
 ---
 
 🇺🇸 **English**
